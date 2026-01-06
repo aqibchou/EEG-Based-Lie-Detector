@@ -307,7 +307,7 @@ These results demonstrate strong performance on the training dataset, with the m
 
 ### Subject-Specific Training Required
 
-**⚠️ CRITICAL**: This model performs **poorly when the subject is changed**. Testing showed that accuracy dropped to as low as **71%** when applied to a different subject than the one used for training.
+** CRITICAL**: This model performs **poorly when the subject is changed**. Testing showed that accuracy dropped to as low as **71%** when applied to a different subject than the one used for training.
 
 **Why this happens**: Everyone has different brainwave responses to the same actions. The neural patterns associated with truth-telling and lying are highly individualized, making cross-subject generalization challenging.
 
