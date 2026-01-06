@@ -299,7 +299,7 @@ Neuropawn/
 
 The Hybrid CNN-RNN-Transformer model achieved the following results:
 - **Training Accuracy**: 96%
-- **Validation Accuracy**: 91%
+- **Validation Accuracy**: 88%
 
 These results demonstrate strong performance on the training dataset, with the model successfully learning to distinguish between truth and lie conditions.
 
@@ -324,7 +324,6 @@ These results demonstrate strong performance on the training dataset, with the m
 - This limitation may skew results and affect real-world applicability
 
 **2. General Limitations**
-- Lie detection using EEG is not 100% accurate
 - Results may vary significantly between individuals
 - Requires proper training data collection
 - Environmental factors can affect signal quality
